@@ -1,5 +1,5 @@
 # Project-Titanic
-Analyzed the data-set and Found different Accuracy for different Classification algorithms of Machine Learning. Random Forest Classifier demonstrated superior accuracy compare to other algorithms.
+Analyzed the data-set and Found different Accuracy for different Classification algorithms of Machine Learning. KNN Classifier demonstrated superior accuracy compare to other algorithms.
 
 ![heatMap](https://github.com/pr-satya/Project-Titanic/assets/101782033/e299c760-9b86-4e58-a57f-3108914a3f62)
 ![gender](https://github.com/pr-satya/Project-Titanic/assets/101782033/4bffdaeb-a479-495b-bea2-3e2e8f2d35a3)
